@@ -1,4 +1,4 @@
-let model = require("../models/posts_model");
+let model = require("../models/comment_model");
 
 module.exports = {
     show: function(req,res){
